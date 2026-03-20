@@ -105,3 +105,35 @@ This repository contains SQL queries and corresponding visualizations for analyz
 
 ## 1.Retrieve all books in the "Fiction" genre:
 ![Customer Info](https://github.com/AvishkarK07/Online_Book_Store/blob/main/code_output/Q1.png)
+
+
+![Customer Info](https://github.com/AvishkarK07/Online_Book_Store/blob/main/code_output/Q2.png)
+
+
+![Customer Info](https://github.com/AvishkarK07/Online_Book_Store/blob/main/code_output/Q3.png)
+
+
+![Customer Info](https://github.com/AvishkarK07/Online_Book_Store/blob/main/code_output/Q4.png)
+
+
+![Customer Info](https://github.com/AvishkarK07/Online_Book_Store/blob/main/code_output/Q5.png)
+
+
+![Customer Info](https://github.com/AvishkarK07/Online_Book_Store/blob/main/code_output/Q6.png)
+
+
+![Customer Info](https://github.com/AvishkarK07/Online_Book_Store/blob/main/code_output/Q7.png)
+
+
+![Customer Info](https://github.com/AvishkarK07/Online_Book_Store/blob/main/code_output/Q7.png)
+
+
+![Customer Info](https://github.com/AvishkarK07/Online_Book_Store/blob/main/code_output/Q9.png)
+
+
+![Customer Info](https://github.com/AvishkarK07/Online_Book_Store/blob/main/code_output/Q10.png)
+
+
+![Customer Info](https://github.com/AvishkarK07/Online_Book_Store/blob/main/code_output/Q11.png)
+
+
