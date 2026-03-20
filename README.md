@@ -109,31 +109,32 @@ This repository contains SQL queries and corresponding visualizations for analyz
 ## 2) Find books published after the year 1950:
 ![Customer Info](https://github.com/AvishkarK07/Online_Book_Store/blob/main/code_output/Q2.png)
 
-
+## 3) list all customer from canada:
 ![Customer Info](https://github.com/AvishkarK07/Online_Book_Store/blob/main/code_output/Q3.png)
 
-
+## 4) show orders placed in november 2023:
 ![Customer Info](https://github.com/AvishkarK07/Online_Book_Store/blob/main/code_output/Q4.png)
 
-
+## 5) Retrive the total stock of books available:
 ![Customer Info](https://github.com/AvishkarK07/Online_Book_Store/blob/main/code_output/Q5.png)
 
-
+## 6) Find the details of the most expansive books:
 ![Customer Info](https://github.com/AvishkarK07/Online_Book_Store/blob/main/code_output/Q6.png)
 
+## 7) Show all customers who orderedmore than 1 quantity of a book:
+![Customer Info](https://github.com/AvishkarK07/Online_Book_Store/blob/main/code_output/Q7.png)
+
+## 8) Retrive all orders where the total amount exceeds $20
 
 ![Customer Info](https://github.com/AvishkarK07/Online_Book_Store/blob/main/code_output/Q7.png)
 
-
-![Customer Info](https://github.com/AvishkarK07/Online_Book_Store/blob/main/code_output/Q7.png)
-
-
+## 9) List all the geners avalible in the book table:   
 ![Customer Info](https://github.com/AvishkarK07/Online_Book_Store/blob/main/code_output/Q9.png)
 
-
+## 10) Find the book with the lowest stock:
 ![Customer Info](https://github.com/AvishkarK07/Online_Book_Store/blob/main/code_output/Q10.png)
 
-
+## 11) calculate the total revanue generated from all orders:
 ![Customer Info](https://github.com/AvishkarK07/Online_Book_Store/blob/main/code_output/Q11.png)
 
 
