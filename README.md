@@ -97,5 +97,11 @@ The project includes multiple SQL queries such as:
    CREATE DATABASE OnlineBookstore;
    USE OnlineBookstore;
 
+## Movies Rental Data Queries
 
+This repository contains SQL queries and corresponding visualizations for analyzing the Movies Rental dataset.
+
+## Queries and Visualizations
+
+## 1.Retrieve all books in the "Fiction" genre:
 ![Customer Info](https://github.com/AvishkarK07/Online_Book_Store/blob/main/code_output/Q1.png)
