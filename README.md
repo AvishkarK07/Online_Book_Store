@@ -1,7 +1,7 @@
 
 # 📚 Online Bookstore SQL Project
 
-<img width="1000" height="400" alt="Screenshot 2025-09-14 211235" src="https://github.com/AvishkarK07/Online_Book_Store/blob/main/code_output/b1.webp"/>
+<img width="1000" height="500" alt="Screenshot 2025-09-14 211235" src="https://github.com/AvishkarK07/Online_Book_Store/blob/main/code_output/b1.webp"/>
 ## 📌 Project Overview
 This project is a **SQL-based database system** for managing an online bookstore. It includes database creation, table design, data handling, and analytical queries to extract meaningful insights from the data.
 
