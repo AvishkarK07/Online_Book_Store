@@ -137,4 +137,35 @@ This repository contains SQL queries and corresponding visualizations for analyz
 ## 11) calculate the total revanue generated from all orders:
 ![Customer Info](https://github.com/AvishkarK07/Online_Book_Store/blob/main/code_output/Q11.png)
 
+## 12) Retrive the total number of book sold by each genre:
+![Customer Info](https://github.com/AvishkarK07/Online_Book_Store/blob/main/code_output/Q12.png)
+
+## 13) Fing average price of books in the "Fantacy" genre:
+![Customer Info](https://github.com/AvishkarK07/Online_Book_Store/blob/main/code_output/Q13.png)
+
+## 14) List customer who have placed at least 2 orders:
+![Customer Info](https://github.com/AvishkarK07/Online_Book_Store/blob/main/code_output/Q14.png)
+
+## 15) Find the most frequentyl ordered book:
+![Customer Info](https://github.com/AvishkarK07/Online_Book_Store/blob/main/code_output/Q15.png)
+
+## 16) Show top 3 most expansive books of 'Fantasy' Genre :
+![Customer Info](https://github.com/AvishkarK07/Online_Book_Store/blob/main/code_output/Q16.png)
+
+## 17) Retrive the total Quantity of books sold by each author:
+![Customer Info](https://github.com/AvishkarK07/Online_Book_Store/blob/main/code_output/Q17.png)
+
+## 18) List the cities where customer who spent over $30 are located:
+![Customer Info](https://github.com/AvishkarK07/Online_Book_Store/blob/main/code_output/Q18.png)
+
+## 19) find the customer who spent the most on orders:
+![Customer Info](https://github.com/AvishkarK07/Online_Book_Store/blob/main/code_output/Q19.png)
+
+## 20) Calculate the stock remaining after fulfilling all orders:
+![Customer Info](https://github.com/AvishkarK07/Online_Book_Store/blob/main/code_output/Q20.png)
+
+
+
+
+
 
