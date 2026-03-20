@@ -1,4 +1,4 @@
-# Online_Book_Store
+
 # 📚 Online Bookstore SQL Project
 
 ## 📌 Project Overview
@@ -97,9 +97,9 @@ The project includes multiple SQL queries such as:
    CREATE DATABASE OnlineBookstore;
    USE OnlineBookstore;
 
-## Movies Rental Data Queries
+## Book Store Data Queries
 
-This repository contains SQL queries and corresponding visualizations for analyzing the Movies Rental dataset.
+This repository contains SQL queries and corresponding visualizations for analyzing the Book store dataset.
 
 ## Queries and Visualizations
 
