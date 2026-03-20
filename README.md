@@ -103,10 +103,10 @@ This repository contains SQL queries and corresponding visualizations for analyz
 
 ## Queries and Visualizations
 
-## 1.Retrieve all books in the "Fiction" genre:
+## 1) Retrieve all books in the "Fiction" genre:
 ![Customer Info](https://github.com/AvishkarK07/Online_Book_Store/blob/main/code_output/Q1.png)
 
-
+## 2) Find books published after the year 1950:
 ![Customer Info](https://github.com/AvishkarK07/Online_Book_Store/blob/main/code_output/Q2.png)
 
 
