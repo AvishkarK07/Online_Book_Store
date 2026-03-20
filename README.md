@@ -98,4 +98,4 @@ The project includes multiple SQL queries such as:
    USE OnlineBookstore;
 
 
-![Customer Info](https://github.com/AvishkarK07/Maven_Movies_SQL_Project/blob/main/Code_Output/Q1.png)
+![Customer Info](https://github.com/AvishkarK07/Online_Book_Store/blob/main/code_output/Q1.png)
